@@ -2,16 +2,6 @@ import React from "react";
 import { Carousel } from "antd";
 import { useRef, useEffect } from "react";
 
-
-const contentStyle = {
-  height: "400px",
-  color: "#fff",
-  lineHeight: "400px",
-  textAlign: "center",
-  background: "#364d79",
-  objectFit: "cover",
-};
-
 const images = [
   "/assets/images/j1.png",
   "/assets/images/j2.png",
