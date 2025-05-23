@@ -38,7 +38,7 @@ function Header() {
 
       {/* Auth link */}
       <div className="text-sm mr-6">
-        <a href="#" className="text-black hover:underline">
+        <a href="/auth" className="text-black hover:underline">
           Đăng nhập / Đăng ký
         </a>
       </div>
