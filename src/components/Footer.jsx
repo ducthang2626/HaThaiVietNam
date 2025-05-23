@@ -89,7 +89,7 @@ export default function Footer() {
           >
             BẢN ĐỒ
           </h3>
-          <div style={{ marginTop: "1rem", marginTop:"150px"  }}>
+          <div style={{ marginTop:"150px"  }}>
             <label
               style={{
                 display: "block",
